@@ -1,0 +1,1 @@
+export default function Step1CheckMFA() { return <div>Step 1: Check MFA</div>; }

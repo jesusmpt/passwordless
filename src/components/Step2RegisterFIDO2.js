@@ -1,0 +1,1 @@
+export default function Step2RegisterFIDO2() { return <div>Step 2: Register FIDO2 Key</div>; }
